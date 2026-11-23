@@ -1,6 +1,6 @@
-# AyuGram for Android
+# FlameGram for Android
 
-![AyuGram Logo](.github/AyuGram.png)
+![FlameGram Logo](.github/FlameGram.png)
 
 ## What's this fork even about?
 
@@ -49,7 +49,7 @@ a message.
 Note that we use **Crashlytics**.
 If you don't want to send crash reports, you can disable it in **exteraGram Preferences**.
 
-**AyuGram4A** does **NOT** include proprietary **exteraGram** features.
+**FlameGram4A** does **NOT** include proprietary **exteraGram** features.
 
 ## Preview
 
